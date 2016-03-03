@@ -1,5 +1,5 @@
 {
-    "name": "modern-pug/iamport-rest-client-modern-php",
+    "name": "ninecells/cell-iamport-api",
     "license": "MIT",
     "require": {
         "php": ">=5.5.9",

@@ -1,10 +1,10 @@
 <?php
 
-namespace ModernPUG\Iamport\Laravel5;
+namespace NineCells\Iamport\Laravel5;
 
 use Illuminate\Support\ServiceProvider;
-use ModernPUG\Iamport\HttpClient;
-use ModernPUG\Iamport\IamportApi;
+use NineCells\Iamport\HttpClient;
+use NineCells\Iamport\IamportApi;
 
 class IamportServiceProvider extends ServiceProvider
 {

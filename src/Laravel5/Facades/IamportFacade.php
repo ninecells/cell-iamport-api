@@ -1,9 +1,9 @@
 <?php
 
-namespace ModernPUG\Iamport\Laravel5\Facades;
+namespace NineCells\Iamport\Laravel5\Facades;
 
 use Illuminate\Support\Facades\Facade;
-use ModernPUG\Iamport\IamportApi;
+use NineCells\Iamport\IamportApi;
 
 class IamportFacade extends Facade
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace ModernPUG\Iamport;
+namespace NineCells\Iamport;
 
 class Cache implements CacheInterface
 {

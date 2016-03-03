@@ -1,6 +1,6 @@
 <?php
 
-namespace ModernPUG\Iamport;
+namespace NineCells\Iamport;
 
 use Exception;
 use GuzzleHttp\Client as Guzzle;

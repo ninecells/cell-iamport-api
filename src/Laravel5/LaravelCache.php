@@ -1,10 +1,10 @@
 <?php
 
-namespace ModernPUG\Iamport\Laravel5;
+namespace NineCells\Iamport\Laravel5;
 
 use Cache;
-use ModernPUG\Iamport\CacheInterface;
-use ModernPUG\Iamport\Cache as StaticCache;
+use NineCells\Iamport\CacheInterface;
+use NineCells\Iamport\Cache as StaticCache;
 
 class LaravelCache implements CacheInterface
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace ModernPUG\Iamport;
+namespace NineCells\Iamport;
 
 class IamportApi
 {
